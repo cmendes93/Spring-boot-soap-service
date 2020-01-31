@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GetCustomerDetailResponse
+	xmlns="http://cmendes.com.br"
+	xsi:schemaLocation="http://cmendes.com.br customer-information.xsd"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<CustomerDetail>
+		<id>123</id>
+		<name>Carlos</name>
+		<phone>999999</phone>
+		<email>carlos@gmail.com</email>
+	</CustomerDetail>
+</GetCustomerDetailResponse>
